@@ -1,0 +1,23 @@
+{
+  "name": "v3knet/devel-module",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "v3knet\\module\\devel\\": "./"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/v3knet/module.git"
+    }
+  ],
+  "require": {
+    "silex/silex": "2.0.x-dev",
+    "silex/web-profiler": "2.0.x-dev",
+    "v3knet/module": "dev-master"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^2.7.0"
+  }
+}
