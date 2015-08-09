@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "703f581cefd2129910fe289f47607e7a",
+    "hash": "02e07fd4ac9567fe68f6eb87d2fb511c",
     "packages": [
         {
             "name": "pimple/pimple",
@@ -816,13 +816,10 @@
                     "v3knet\\module\\": "./"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
-            "support": {
-                "source": "https://github.com/v3knet/module/tree/master",
-                "issues": "https://github.com/v3knet/module/issues"
-            },
             "time": "2015-08-07 00:46:39"
         }
     ],
