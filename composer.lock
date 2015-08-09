@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "02e07fd4ac9567fe68f6eb87d2fb511c",
+    "hash": "a97525ce7c0d72201c361b4674b18cc5",
     "packages": [
         {
             "name": "pimple/pimple",
@@ -791,16 +791,16 @@
         },
         {
             "name": "v3knet/module",
-            "version": "dev-master",
+            "version": "0.1.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/v3knet/module.git",
-                "reference": "9616dc89c55373fad8895af9aea57145d3759efb"
+                "reference": "d3eb6c129e016d55d31f2c9c9714abc04a609eda"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/v3knet/module/zipball/9616dc89c55373fad8895af9aea57145d3759efb",
-                "reference": "9616dc89c55373fad8895af9aea57145d3759efb",
+                "url": "https://api.github.com/repos/v3knet/module/zipball/d3eb6c129e016d55d31f2c9c9714abc04a609eda",
+                "reference": "d3eb6c129e016d55d31f2c9c9714abc04a609eda",
                 "shasum": ""
             },
             "require": {
@@ -820,7 +820,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2015-08-07 00:46:39"
+            "time": "2015-08-09 23:02:40"
         }
     ],
     "packages-dev": [
