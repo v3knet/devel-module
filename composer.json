@@ -9,7 +9,7 @@
   "require": {
     "silex/silex": "2.0.x-dev",
     "silex/web-profiler": "2.0.x-dev",
-    "v3knet/module": "dev-master"
+    "v3knet/module": "0.1.x-dev"
   },
   "require-dev": {
     "symfony/var-dumper": "^2.7.0"
