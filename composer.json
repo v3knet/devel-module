@@ -6,6 +6,7 @@
       "v3knet\\module\\devel\\": "./"
     }
   },
+  "minimum-stability": "dev",
   "require": {
     "silex/silex": "2.0.x-dev",
     "silex/web-profiler": "2.0.x-dev",
