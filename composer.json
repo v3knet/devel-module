@@ -6,12 +6,6 @@
       "v3knet\\module\\devel\\": "./"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/v3knet/module.git"
-    }
-  ],
   "require": {
     "silex/silex": "2.0.x-dev",
     "silex/web-profiler": "2.0.x-dev",
